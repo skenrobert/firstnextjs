@@ -33,6 +33,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+
+
 #create project
 npx create-next-app
 
@@ -52,7 +54,7 @@ http://localhost:3000/
 
 npm run build
 
-note: this command constru that project 
+note: this command Build the project 
 
 
 #after you build the project to production you can run next command
