@@ -1,7 +1,7 @@
 // import './globals.css'
 import { Inter } from 'next/font/google'
-import { Navigation } from "@/components/Navigation"; //other form
-//import { Navigation } from "../components/Navigation";
+//import { Navigation } from "@/components/Navigation"; //other form
+import { Navigation } from "../components/Navigation";
 
 const inter = Inter({ subsets: ['latin'] })
 
