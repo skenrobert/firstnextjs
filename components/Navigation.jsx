@@ -29,6 +29,11 @@ export const Navigation = () => (
               Services
             </Link>
           </li>
+          <li className="nav-item">
+            <Link href="/uploadcode" className="nav-link">
+              Upload Image
+            </Link>
+          </li>
         </ul>
       </div>
     </div>
